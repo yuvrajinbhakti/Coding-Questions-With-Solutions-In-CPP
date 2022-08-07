@@ -17,7 +17,7 @@ Find the category to which Chef’s problem belongs.
 
 Input Format
 The first line contains TT denoting the number of test cases. Then the test cases follow.
-The first and only line of each test case contains a single integer xx.
+The first and only line of each test case contains a single integer x.
 Output Format
 For each test case, output in a single line the category of Chef's problem, i.e whether it is an Easy, Medium or Hard problem. The output is case sensitive.
 
@@ -38,11 +38,11 @@ Easy
 Medium
 Hard
 Explanation:
-Test case 11: The problem with rating x = 50x=50 is an easy problem as 1 ≤ T ≤ 50
+Test case 1: The problem with rating x = 50 is an easy problem as 1 ≤ T ≤ 50
 
-Test case 22: The problem with rating x = 172x=172 is a medium problem as 1 ≤ x ≤ 300
+Test case 2: The problem with rating x = 172 is a medium problem as 1 ≤ x ≤ 300
 
-Test case 33: The problem with rating x = 201x=201 is a hard problem as  200 ≤ x ≤ 300.
+Test case 3: The problem with rating x = 201 is a hard problem as  200 ≤ x ≤ 300.
 */
 
 #include <iostream>
