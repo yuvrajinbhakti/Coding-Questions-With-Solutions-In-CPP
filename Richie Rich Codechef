@@ -4,15 +4,15 @@ Problem Code:CHFRICH
 Contest Code:LTIME97
 Difficulty Rating:878
 
-Chef aims to be the richest person in Chefland by his new restaurant franchise. Currently, his assets are worth AA billion dollars and have no liabilities. He aims to increase his assets by XX billion dollars per year.
+Chef aims to be the richest person in Chefland by his new restaurant franchise. Currently, his assets are worth A billion dollars and have no liabilities. He aims to increase his assets by X billion dollars per year.
 
 Also, all the richest people in Chefland are not planning to grow and maintain their current worth.
 
-To be the richest person in Chefland, he needs to be worth at least BB billion dollars. How many years will it take Chef to reach his goal if his value increases by XX billion dollars each year?
+To be the richest person in Chefland, he needs to be worth at least B billion dollars. How many years will it take Chef to reach his goal if his value increases by XX billion dollars each year?
 
 Input
-The first line contains an integer TT, the number of test cases. Then the test cases follow.
-Each test case contains a single line of input, three integers AA, BB, XX.
+The first line contains an integer T, the number of test cases. Then the test cases follow.
+Each test case contains a single line of input, three integers A, B, X.
 Output
 For each test case, output in a single line the answer to the problem.
 
@@ -36,11 +36,11 @@ Output
 8
 1
 Explanation:
-Test Case 1: Chef needs to increase his worth by 200 - 100 = 100200−100=100 billion dollars and his increment per year being 1010 billion dollars, so it will take him 10 / 100 =10 years to do so.
+Test Case 1: Chef needs to increase his worth by 200 - 100 =100 billion dollars and his increment per year being 10 billion dollars, so it will take him 10 / 100 =10 years to do so.
 
-Test Case 2: Chef needs to increase his worth by 199 - 111 = 88199−111=88 billion dollars and his increment per year being 1111 billion dollars, so it will take him 11 / 88 =8 years to do so.
+Test Case 2: Chef needs to increase his worth by 199 - 111 =88 billion dollars and his increment per year being 11 billion dollars, so it will take him 11 / 88 =8 years to do so.
 
-Test Case 3: Chef needs to increase his worth by 200 - 190 = 10200−190=10 billion dollars and his increment per year being 1010 billion dollars, so it will take him 10 / 10 =1 year to do so.
+Test Case 3: Chef needs to increase his worth by 200 - 190 =10 billion dollars and his increment per year being 10 billion dollars, so it will take him 10 / 10 =1 year to do so.
 */
 
 
